@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-person-team-member);
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #71b8f7;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #71b8f7;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-person-team-member">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="person-team-member" class="cls-1">
+    <g id="airplane-medical" transform="translate(-8 -8.001)">
+      <g id="Group_5460" data-name="Group 5460" transform="translate(8 8.001)">
+        <g id="Group_2089" data-name="Group 2089" transform="translate(0 0)">
+          <g id="Group_1287" data-name="Group 1287" transform="translate(0)">
+            <g id="Group_1279" data-name="Group 1279">
+              <g id="Ellipse_123" data-name="Ellipse 123" class="cls-2">
+                <circle class="cls-4" cx="32" cy="32" r="32"/>
+                <circle class="cls-5" cx="32" cy="32" r="30"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Path_2948" data-name="Path 2948" class="cls-3" d="M31.873,35.7c.035-4.071-5.289-5.706-10.613-6.3l-5.08,8.177v-10.4c6.4.035,12.84-2.644,12.84-8.073C28.985,8.386,23.278,0,16.284,0S3.619,8.351,3.619,19.1c0,4.349,4.175,6.959,9.151,7.759a4.671,4.671,0,0,1-.7,2.4C6.333,29.715,0,31.246,0,35.7a20.886,20.886,0,0,0,.835,5.88,24.106,24.106,0,0,0,15.1,5.324v.035a24.22,24.22,0,0,0,15.1-5.324,20.773,20.773,0,0,0,.835-5.915ZM7.794,17.606h0c-.626.1-1.67-.974-1.879-2.123a3.078,3.078,0,0,1,0-.8,16.088,16.088,0,0,0,4.663-4.906,16.37,16.37,0,0,0,1.6-4.593A16.281,16.281,0,0,0,17.4,11.2a16.924,16.924,0,0,0,9.116,2.61,2.313,2.313,0,0,1,.383,2.157,2.22,2.22,0,0,1-2.123,1.7c-1.357,4.175-4.315,7.759-8.455,7.759C12.109,25.47,9.151,21.817,7.794,17.606ZM20.7,34.447h6.263v.7H20.7Zm0,6.263V35.839h6.263v4.871Z" transform="translate(16 8.961)"/>
+  </g>
+</svg>
